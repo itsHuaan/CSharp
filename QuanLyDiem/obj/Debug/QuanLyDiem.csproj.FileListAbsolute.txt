@@ -1,0 +1,145 @@
+E:\Documents\Code\CSharp\Đỗ_Quang_Huân_20103100580\QuanLyDiem\bin\Debug\QuanLyDiem.exe.config
+E:\Documents\Code\CSharp\Đỗ_Quang_Huân_20103100580\QuanLyDiem\bin\Debug\QuanLyDiem.exe
+E:\Documents\Code\CSharp\Đỗ_Quang_Huân_20103100580\QuanLyDiem\bin\Debug\QuanLyDiem.pdb
+E:\Documents\Code\CSharp\Đỗ_Quang_Huân_20103100580\QuanLyDiem\obj\Debug\QuanLyDiem.csproj.AssemblyReference.cache
+E:\Documents\Code\CSharp\Đỗ_Quang_Huân_20103100580\QuanLyDiem\obj\Debug\QuanLyDiem.csproj.SuggestedBindingRedirects.cache
+E:\Documents\Code\CSharp\Đỗ_Quang_Huân_20103100580\QuanLyDiem\obj\Debug\QuanLyDiem.Properties.Resources.resources
+E:\Documents\Code\CSharp\Đỗ_Quang_Huân_20103100580\QuanLyDiem\obj\Debug\QuanLyDiem.csproj.GenerateResource.cache
+E:\Documents\Code\CSharp\Đỗ_Quang_Huân_20103100580\QuanLyDiem\obj\Debug\QuanLyDiem.csproj.CoreCompileInputs.cache
+E:\Documents\Code\CSharp\Đỗ_Quang_Huân_20103100580\QuanLyDiem\obj\Debug\QuanLyDiem.exe
+E:\Documents\Code\CSharp\Đỗ_Quang_Huân_20103100580\QuanLyDiem\obj\Debug\QuanLyDiem.pdb
+E:\Documents\Code\CSharp\Đỗ_Quang_Huân_20103100580\QuanLyDiem\obj\Debug\QuanLyDiem.DangNhap.resources
+E:\Documents\Code\CSharp\Đỗ_Quang_Huân_20103100580\QuanLyDiem\obj\Debug\QuanLyDiem.Menu.resources
+E:\Downloads\QuanLyDiem\bin\Debug\QuanLyDiem.exe.config
+E:\Downloads\QuanLyDiem\bin\Debug\QuanLyDiem.exe
+E:\Downloads\QuanLyDiem\bin\Debug\QuanLyDiem.pdb
+E:\Downloads\QuanLyDiem\obj\Debug\QuanLyDiem.csproj.AssemblyReference.cache
+E:\Downloads\QuanLyDiem\obj\Debug\QuanLyDiem.csproj.SuggestedBindingRedirects.cache
+E:\Downloads\QuanLyDiem\obj\Debug\QuanLyDiem.DangNhap.resources
+E:\Downloads\QuanLyDiem\obj\Debug\QuanLyDiem.Menu.resources
+E:\Downloads\QuanLyDiem\obj\Debug\QuanLyDiem.Properties.Resources.resources
+E:\Downloads\QuanLyDiem\obj\Debug\QuanLyDiem.csproj.GenerateResource.cache
+E:\Downloads\QuanLyDiem\obj\Debug\QuanLyDiem.csproj.CoreCompileInputs.cache
+E:\Downloads\QuanLyDiem\obj\Debug\QuanLyDiem.exe
+E:\Downloads\QuanLyDiem\obj\Debug\QuanLyDiem.pdb
+E:\Documents\Code\CSharp\Đỗ_Quang_Huân_20103100580\QuanLyDiem\obj\Debug\QuanLyDiem.ChinhSuaThongTin.resources
+E:\Documents\Code\CSharp\Đỗ_Quang_Huân_20103100580\QuanLyDiem\obj\Debug\QuanLyDiem.SinhVien.resources
+E:\Documents\Code\CSharp\Đỗ_Quang_Huân_20103100580\QuanLyDiem\obj\Debug\QuanLyDiem.Khoa.resources
+E:\Documents\Code\CSharp\Đỗ_Quang_Huân_20103100580\QuanLyDiem\obj\Debug\QuanLyDiem.MonHoc.resources
+E:\Documents\Code\CSharp\Đỗ_Quang_Huân_20103100580\QuanLyDiem\obj\Debug\QuanLyDiem.Lop.resources
+E:\Documents\Code\CSharp\Đỗ_Quang_Huân_20103100580\QuanLyDiem\obj\Debug\QuanLyDiem.SinhVienTheoLop.resources
+F:\UserData\QuanLyDiem\bin\Debug\QuanLyDiem.exe.config
+F:\UserData\QuanLyDiem\bin\Debug\QuanLyDiem.exe
+F:\UserData\QuanLyDiem\bin\Debug\QuanLyDiem.pdb
+F:\UserData\QuanLyDiem\obj\Debug\QuanLyDiem.csproj.AssemblyReference.cache
+F:\UserData\QuanLyDiem\obj\Debug\QuanLyDiem.csproj.SuggestedBindingRedirects.cache
+F:\UserData\QuanLyDiem\obj\Debug\QuanLyDiem.ChinhSuaThongTin.resources
+F:\UserData\QuanLyDiem\obj\Debug\QuanLyDiem.DangNhap.resources
+F:\UserData\QuanLyDiem\obj\Debug\QuanLyDiem.Khoa.resources
+F:\UserData\QuanLyDiem\obj\Debug\QuanLyDiem.Lop.resources
+F:\UserData\QuanLyDiem\obj\Debug\QuanLyDiem.Menu.resources
+F:\UserData\QuanLyDiem\obj\Debug\QuanLyDiem.MonHoc.resources
+F:\UserData\QuanLyDiem\obj\Debug\QuanLyDiem.Properties.Resources.resources
+F:\UserData\QuanLyDiem\obj\Debug\QuanLyDiem.SinhVien.resources
+F:\UserData\QuanLyDiem\obj\Debug\QuanLyDiem.SinhVienTheoLop.resources
+F:\UserData\QuanLyDiem\obj\Debug\QuanLyDiem.csproj.GenerateResource.cache
+F:\UserData\QuanLyDiem\obj\Debug\QuanLyDiem.csproj.CoreCompileInputs.cache
+F:\UserData\QuanLyDiem\obj\Debug\QuanLyDiem.exe
+F:\UserData\QuanLyDiem\obj\Debug\QuanLyDiem.pdb
+E:\Documents\Code\CSharp\Đỗ_Quang_Huân_20103100580\QuanLyDiem\obj\Debug\QuanLyDiem.Diem.resources
+D:\Workspace\Đồ án 1\Code\QuanLyDiem\bin\Debug\QuanLyDiem.exe.config
+D:\Workspace\Đồ án 1\Code\QuanLyDiem\bin\Debug\QuanLyDiem.exe
+D:\Workspace\Đồ án 1\Code\QuanLyDiem\bin\Debug\QuanLyDiem.pdb
+D:\Workspace\Đồ án 1\Code\QuanLyDiem\obj\Debug\QuanLyDiem.csproj.AssemblyReference.cache
+D:\Workspace\Đồ án 1\Code\QuanLyDiem\obj\Debug\QuanLyDiem.csproj.SuggestedBindingRedirects.cache
+D:\Workspace\Đồ án 1\Code\QuanLyDiem\obj\Debug\QuanLyDiem.ChinhSuaThongTin.resources
+D:\Workspace\Đồ án 1\Code\QuanLyDiem\obj\Debug\QuanLyDiem.DangNhap.resources
+D:\Workspace\Đồ án 1\Code\QuanLyDiem\obj\Debug\QuanLyDiem.Diem.resources
+D:\Workspace\Đồ án 1\Code\QuanLyDiem\obj\Debug\QuanLyDiem.Khoa.resources
+D:\Workspace\Đồ án 1\Code\QuanLyDiem\obj\Debug\QuanLyDiem.Lop.resources
+D:\Workspace\Đồ án 1\Code\QuanLyDiem\obj\Debug\QuanLyDiem.Menu.resources
+D:\Workspace\Đồ án 1\Code\QuanLyDiem\obj\Debug\QuanLyDiem.MonHoc.resources
+D:\Workspace\Đồ án 1\Code\QuanLyDiem\obj\Debug\QuanLyDiem.Properties.Resources.resources
+D:\Workspace\Đồ án 1\Code\QuanLyDiem\obj\Debug\QuanLyDiem.SinhVien.resources
+D:\Workspace\Đồ án 1\Code\QuanLyDiem\obj\Debug\QuanLyDiem.SinhVienTheoLop.resources
+D:\Workspace\Đồ án 1\Code\QuanLyDiem\obj\Debug\QuanLyDiem.csproj.GenerateResource.cache
+D:\Workspace\Đồ án 1\Code\QuanLyDiem\obj\Debug\QuanLyDiem.csproj.CoreCompileInputs.cache
+D:\Workspace\Đồ án 1\Code\QuanLyDiem\obj\Debug\QuanLyDiem.exe
+D:\Workspace\Đồ án 1\Code\QuanLyDiem\obj\Debug\QuanLyDiem.pdb
+D:\Workspace\Đồ án 1\Code\QuanLyDiem\obj\Debug\QuanLyDiem.Account.resources
+D:\Workspace\Đồ án 1\Code\QuanLyDiem\obj\Debug\QuanLyDiem.Thongkediem.resources
+D:\Workspace\Đồ án 1\Code\QuanLyDiem\obj\Debug\QuanLyDiem.Thongketheomon.resources
+E:\Documents\Code\CSharp\QuanLyDiem\bin\Debug\QuanLyDiem.exe.config
+E:\Documents\Code\CSharp\QuanLyDiem\bin\Debug\QuanLyDiem.exe
+E:\Documents\Code\CSharp\QuanLyDiem\bin\Debug\QuanLyDiem.pdb
+E:\Documents\Code\CSharp\QuanLyDiem\obj\Debug\QuanLyDiem.csproj.AssemblyReference.cache
+E:\Documents\Code\CSharp\QuanLyDiem\obj\Debug\QuanLyDiem.csproj.SuggestedBindingRedirects.cache
+E:\Documents\Code\CSharp\QuanLyDiem\obj\Debug\QuanLyDiem.Account.resources
+E:\Documents\Code\CSharp\QuanLyDiem\obj\Debug\QuanLyDiem.ChinhSuaThongTin.resources
+E:\Documents\Code\CSharp\QuanLyDiem\obj\Debug\QuanLyDiem.DangNhap.resources
+E:\Documents\Code\CSharp\QuanLyDiem\obj\Debug\QuanLyDiem.Diem.resources
+E:\Documents\Code\CSharp\QuanLyDiem\obj\Debug\QuanLyDiem.Khoa.resources
+E:\Documents\Code\CSharp\QuanLyDiem\obj\Debug\QuanLyDiem.Lop.resources
+E:\Documents\Code\CSharp\QuanLyDiem\obj\Debug\QuanLyDiem.Menu.resources
+E:\Documents\Code\CSharp\QuanLyDiem\obj\Debug\QuanLyDiem.MonHoc.resources
+E:\Documents\Code\CSharp\QuanLyDiem\obj\Debug\QuanLyDiem.Properties.Resources.resources
+E:\Documents\Code\CSharp\QuanLyDiem\obj\Debug\QuanLyDiem.SinhVien.resources
+E:\Documents\Code\CSharp\QuanLyDiem\obj\Debug\QuanLyDiem.SinhVienTheoLop.resources
+E:\Documents\Code\CSharp\QuanLyDiem\obj\Debug\QuanLyDiem.Thongketheomon.resources
+E:\Documents\Code\CSharp\QuanLyDiem\obj\Debug\QuanLyDiem.Thongkediem.resources
+E:\Documents\Code\CSharp\QuanLyDiem\obj\Debug\QuanLyDiem.csproj.GenerateResource.cache
+E:\Documents\Code\CSharp\QuanLyDiem\obj\Debug\QuanLyDiem.csproj.CoreCompileInputs.cache
+E:\Documents\Code\CSharp\QuanLyDiem\obj\Debug\QuanLyDiem.exe
+E:\Documents\Code\CSharp\QuanLyDiem\obj\Debug\QuanLyDiem.pdb
+D:\Workspace\.net\QuanLyDiem\bin\Debug\QuanLyDiem.exe.config
+D:\Workspace\.net\QuanLyDiem\bin\Debug\QuanLyDiem.exe
+D:\Workspace\.net\QuanLyDiem\bin\Debug\QuanLyDiem.pdb
+D:\Workspace\.net\QuanLyDiem\obj\Debug\QuanLyDiem.csproj.AssemblyReference.cache
+D:\Workspace\.net\QuanLyDiem\obj\Debug\QuanLyDiem.csproj.SuggestedBindingRedirects.cache
+D:\Workspace\.net\QuanLyDiem\obj\Debug\QuanLyDiem.Account.resources
+D:\Workspace\.net\QuanLyDiem\obj\Debug\QuanLyDiem.ChinhSuaThongTin.resources
+D:\Workspace\.net\QuanLyDiem\obj\Debug\QuanLyDiem.DangNhap.resources
+D:\Workspace\.net\QuanLyDiem\obj\Debug\QuanLyDiem.Diem.resources
+D:\Workspace\.net\QuanLyDiem\obj\Debug\QuanLyDiem.Khoa.resources
+D:\Workspace\.net\QuanLyDiem\obj\Debug\QuanLyDiem.Lop.resources
+D:\Workspace\.net\QuanLyDiem\obj\Debug\QuanLyDiem.Menu.resources
+D:\Workspace\.net\QuanLyDiem\obj\Debug\QuanLyDiem.MonHoc.resources
+D:\Workspace\.net\QuanLyDiem\obj\Debug\QuanLyDiem.Properties.Resources.resources
+D:\Workspace\.net\QuanLyDiem\obj\Debug\QuanLyDiem.SinhVien.resources
+D:\Workspace\.net\QuanLyDiem\obj\Debug\QuanLyDiem.SinhVienTheoLop.resources
+D:\Workspace\.net\QuanLyDiem\obj\Debug\QuanLyDiem.Thongketheomon.resources
+D:\Workspace\.net\QuanLyDiem\obj\Debug\QuanLyDiem.Thongkediem.resources
+D:\Workspace\.net\QuanLyDiem\obj\Debug\QuanLyDiem.csproj.GenerateResource.cache
+D:\Workspace\.net\QuanLyDiem\obj\Debug\QuanLyDiem.csproj.CoreCompileInputs.cache
+D:\Workspace\.net\QuanLyDiem\obj\Debug\QuanLyDiem.exe
+D:\Workspace\.net\QuanLyDiem\obj\Debug\QuanLyDiem.pdb
+D:\Workspace\.net\QuanLyDiem\obj\Debug\QuanLyDiem.csproj.ResolveComReference.cache
+E:\Documents\Code\CSharp\Đỗ_Quang_Huân_20103100580\QuanLyDiem\obj\Debug\QuanLyDiem.csproj.ResolveComReference.cache
+E:\Documents\Code\CSharp\Đỗ_Quang_Huân_20103100580\QuanLyDiem\obj\Debug\QuanLyDiem.Account.resources
+E:\Documents\Code\CSharp\Đỗ_Quang_Huân_20103100580\QuanLyDiem\obj\Debug\QuanLyDiem.Thongketheomon.resources
+E:\Documents\Code\CSharp\Đỗ_Quang_Huân_20103100580\QuanLyDiem\obj\Debug\QuanLyDiem.Thongkediem.resources
+E:\Documents\Code\CSharp\Đỗ_Quang_Huân_20103100580\QuanLyDiem\obj\Debug\Interop.MSXML2.dll
+D:\Workspace\Đồ án 1\Code\QuanLyDiem (1)\bin\Debug\QuanLyDiem.exe.config
+D:\Workspace\Đồ án 1\Code\QuanLyDiem (1)\bin\Debug\QuanLyDiem.exe
+D:\Workspace\Đồ án 1\Code\QuanLyDiem (1)\bin\Debug\QuanLyDiem.pdb
+D:\Workspace\Đồ án 1\Code\QuanLyDiem (1)\obj\Debug\QuanLyDiem.csproj.AssemblyReference.cache
+D:\Workspace\Đồ án 1\Code\QuanLyDiem (1)\obj\Debug\QuanLyDiem.csproj.SuggestedBindingRedirects.cache
+D:\Workspace\Đồ án 1\Code\QuanLyDiem (1)\obj\Debug\Interop.MSXML2.dll
+D:\Workspace\Đồ án 1\Code\QuanLyDiem (1)\obj\Debug\QuanLyDiem.csproj.ResolveComReference.cache
+D:\Workspace\Đồ án 1\Code\QuanLyDiem (1)\obj\Debug\QuanLyDiem.Account.resources
+D:\Workspace\Đồ án 1\Code\QuanLyDiem (1)\obj\Debug\QuanLyDiem.ChinhSuaThongTin.resources
+D:\Workspace\Đồ án 1\Code\QuanLyDiem (1)\obj\Debug\QuanLyDiem.DangNhap.resources
+D:\Workspace\Đồ án 1\Code\QuanLyDiem (1)\obj\Debug\QuanLyDiem.Diem.resources
+D:\Workspace\Đồ án 1\Code\QuanLyDiem (1)\obj\Debug\QuanLyDiem.Khoa.resources
+D:\Workspace\Đồ án 1\Code\QuanLyDiem (1)\obj\Debug\QuanLyDiem.Lop.resources
+D:\Workspace\Đồ án 1\Code\QuanLyDiem (1)\obj\Debug\QuanLyDiem.Menu.resources
+D:\Workspace\Đồ án 1\Code\QuanLyDiem (1)\obj\Debug\QuanLyDiem.MonHoc.resources
+D:\Workspace\Đồ án 1\Code\QuanLyDiem (1)\obj\Debug\QuanLyDiem.Properties.Resources.resources
+D:\Workspace\Đồ án 1\Code\QuanLyDiem (1)\obj\Debug\QuanLyDiem.SinhVien.resources
+D:\Workspace\Đồ án 1\Code\QuanLyDiem (1)\obj\Debug\QuanLyDiem.SinhVienTheoLop.resources
+D:\Workspace\Đồ án 1\Code\QuanLyDiem (1)\obj\Debug\QuanLyDiem.Thongketheomon.resources
+D:\Workspace\Đồ án 1\Code\QuanLyDiem (1)\obj\Debug\QuanLyDiem.Thongkediem.resources
+D:\Workspace\Đồ án 1\Code\QuanLyDiem (1)\obj\Debug\QuanLyDiem.csproj.GenerateResource.cache
+D:\Workspace\Đồ án 1\Code\QuanLyDiem (1)\obj\Debug\QuanLyDiem.csproj.CoreCompileInputs.cache
+D:\Workspace\Đồ án 1\Code\QuanLyDiem (1)\obj\Debug\QuanLyDiem.exe
+D:\Workspace\Đồ án 1\Code\QuanLyDiem (1)\obj\Debug\QuanLyDiem.pdb
